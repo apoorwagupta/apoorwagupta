@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![](https://media0.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
+
+<p align="center">
+  <img width="460" height="300" src="https://media0.giphy.com/media/aNqEFrYVnsS52/giphy.gif">
+</p>
 
 ![snake gif](https://github.com/apoorwagupta/apoorwagupta/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
