@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/apoorwagupta/apoorwagupta/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)!
+![snake gif](https://github.com/apoorwagupta/apoorwagupta/blob/output/github-contribution-grid-snake.gif)
