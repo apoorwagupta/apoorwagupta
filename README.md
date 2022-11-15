@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 <p align="center"> 
-![](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
+<img class="animated-gif" src="https://media.giphy.com/media/aNqEFrYVnsS52giphy.gif">
 </p>
 
 
