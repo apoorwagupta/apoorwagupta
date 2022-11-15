@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 -->
 
+<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S"></a></p>
+
 ![snake gif](https://github.com/apoorwagupta/apoorwagupta/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
