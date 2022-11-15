@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 <p align="center"> 
-![]([(https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)]
+![](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 </p>
 
 
